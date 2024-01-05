@@ -1,5 +1,5 @@
 # HZC - Flex e Grid
-
+<img src="./assets/img/Cover.jpg">
 <p align="center">Projeto com uma interface de uma galeria de vídeos responsiva.</p>
 
 ## :computer: Como acessar:
