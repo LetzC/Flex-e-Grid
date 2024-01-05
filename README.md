@@ -1,3 +1,15 @@
+# HZC - Flex e Grid
+
+<p align="center">Projeto com uma interface de uma galeria de vídeos responsiva.</p>
+
+## :computer: Como acessar:
+
+Para acessar o projeto [clique aqui!](https://letzc.github.io/Flex-e-Grid/)
+
+## 🛠️ Tecnologias usadas:
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
